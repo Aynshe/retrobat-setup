@@ -273,6 +273,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./eden.menu</path>
+		<name>Eden (Switch)</name>
+		<desc>Run Eden (Switch). This software is not provided by RetroBat.</desc>
+		<image>./media/eden-logo.png</image>
+		<marquee>./media/eden-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>The Eden Team</developer>
+		<publisher />
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./eka2l1.menu</path>
 		<name>EKA2L1 (Symbian OS/N-Gage emulator)</name>
 		<desc>Run EKA2L1 (Symbian OS/N-Gage emulator).</desc>
@@ -1377,6 +1394,23 @@
 		<rating>0</rating>
 		<releasedate />
 		<developer>devmiyax</developer>
+		<publisher />
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./ymir.menu</path>
+		<name>Ymir (Saturn)</name>
+		<desc>Run Ymir (Saturn).</desc>
+		<image>./media/ymir-logo.png</image>
+		<marquee>./media/ymir-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>StrikerX3</developer>
 		<publisher />
 		<genre>Emulator</genre>
 		<playcount />

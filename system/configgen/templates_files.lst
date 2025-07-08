@@ -16,6 +16,7 @@
 \system\templates\cemu\portable\GraphicPacks.zip|\emulators\cemu\portable\graphicPacks
 \system\templates\cemu\portable\settings.xml|\emulators\cemu\portable\settings.xml
 \system\templates\cgenius\cgenius.cfg|\emulators\cgenius\cgenius.cfg
+\system\templates\chihiro\settings.ini|\emulators\chihiro\settings.ini
 \system\templates\citra\portable.txt|\emulators\citra\portable.txt
 \system\templates\citra\qt-config.ini|\emulators\citra\user\config\qt-config.ini
 \system\templates\citron\qt-config.ini|\emulators\citron\user\config\qt-config.ini
@@ -36,6 +37,7 @@
 \system\templates\dolphin\Hotkeys.ini|\emulators\dolphin-emu\User\Config\Hotkeys.ini
 \system\templates\dosbox\run.dosbox|\emulators\dosbox\run.dosbox
 \system\templates\duckstation\settings.ini|\emulators\duckstation\settings.ini
+\system\templates\eden\qt-config.ini|\emulators\eden\user\config\qt-config.ini
 \system\templates\eka2l1\config.yml|\emulators\eka2l1\config.yml
 \system\templates\emulationstation\batocera-store.cfg|\emulationstation\batocera-store.cfg
 \system\templates\emulationstation\emulatorLauncher.cfg|\emulationstation\emulatorLauncher.cfg
@@ -60,6 +62,7 @@
 \system\templates\infos\portable.txt|\emulators\duckstation\portable.txt
 \system\templates\infos\portable.txt|\emulators\gopher64\portable.txt
 \system\templates\infos\portable.txt|\emulators\mgba\portable.ini
+\system\templates\infos\portable.txt|\emulators\play\portable.txt
 \system\templates\infos\portable.txt|\emulators\xenia-canary\portable.txt
 \system\templates\infos\portable.txt|\emulators\xenia\portable.txt
 \system\templates\jgenesis\jgenesis-config.toml|\emulators\jgenesis\jgenesis-config.toml
@@ -85,8 +88,10 @@
 \system\templates\mupen64\Config\mupen64plus.cfg|\emulators\mupen64\Config\mupen64plus.cfg
 \system\templates\nosgba\NO$GBA.INI|\emulators\nosgba\NO$GBA.INI
 \system\templates\opengoal\config\OpenGOAL\jak1\misc\debug-settings.json|\emulators\opengoal\config\OpenGOAL\jak1\misc\debug-settings.json
+\system\templates\opengoal\config\OpenGOAL\jak1\settings\display-settings.json|\emulators\opengoal\config\OpenGOAL\jak1\settings\display-settings.json
 \system\templates\opengoal\config\OpenGOAL\jak1\settings\pc-settings.gc|\emulators\opengoal\config\OpenGOAL\jak1\settings\pc-settings.gc
 \system\templates\opengoal\config\OpenGOAL\jak2\misc\debug-settings.json|\emulators\opengoal\config\OpenGOAL\jak2\misc\debug-settings.json
+\system\templates\opengoal\config\OpenGOAL\jak2\settings\display-settings.json|\emulators\opengoal\config\OpenGOAL\jak2\settings\display-settings.json
 \system\templates\opengoal\config\OpenGOAL\jak2\settings\pc-settings.gc|\emulators\opengoal\config\OpenGOAL\jak2\settings\pc-settings.gc
 \system\templates\openjazz\openjazz.cfg|\emulators\openjazz\openjazz.cfg
 \system\templates\oricutron\oricutron.cfg|\emulators\oricutron\oricutron.cfg
@@ -158,8 +163,8 @@
 \system\templates\supermodel\NVRAM.zip|\emulators\supermodel\NVRAM
 \system\templates\supermodel\Supermodel.ini|\emulators\supermodel\Config\Supermodel.ini
 \system\templates\suyu\qt-config.ini|\emulators\suyu\user\config\qt-config.ini
-\system\templates\tattoos\README.md|\tattoos\README.md
-\system\templates\inputmapping\README.txt|\user\inputmapping\README.txt
+\system\templates\user\tattoos\README.md|\user\tattoos\README.md
+\system\templates\user\inputmapping\README.txt|\user\inputmapping\README.txt
 \system\templates\vita3k\config.yml|\emulators\vita3k\config.yml
 \system\templates\vita3k\user.xml|\saves\psvita\vita3k\ux0\user\00\user.xml
 \system\templates\winuae\winuae.ini|\emulators\winuae\winuae.ini
@@ -171,6 +176,7 @@
 \system\templates\xm6pro\XM6.ini|\emulators\xm6pro\XM6.ini
 \system\templates\xroar\gamecontrollerdb.txt|\emulators\xroar\gamecontrollerdb.txt
 \system\templates\xroar\xroar.conf|\emulators\xroar\xroar.conf
+\system\templates\ymir\Ymir.toml|\emulators\ymir\Ymir.toml
 \system\templates\yuzu\qt-config.ini|\emulators\yuzu\user\config\qt-config.ini
 \system\templates\zinc\renderer.cfg|\emulators\zinc\renderer.cfg
 \system\templates\zinc\zinc.cfg|\emulators\zinc\zinc.cfg
